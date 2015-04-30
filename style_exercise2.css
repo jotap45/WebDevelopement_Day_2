@@ -1,0 +1,44 @@
+header {
+    padding: 20px;
+  }
+
+p {
+  color: yellow;
+  background-color: green;
+}
+
+.built-a-webpage {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 4em;
+  opacity: .5;
+  font-family: "Palatino Linotype", sans-serif;
+}
+
+.main-image {
+  opacity: 0.4;
+}
+
+.murray {
+  margin: 0 auto;
+  display: block;
+}
+
+aside section p {
+  font-family: fantasy;
+  text-decoration: underline;
+  color: red;
+  line-height: 3em;
+
+}
+
+aside section p.Blue-Color {
+  color: 2988CC;
+}
+
+.bullets-bucket li {
+  list-style-type: ethiopic;
+
+}
